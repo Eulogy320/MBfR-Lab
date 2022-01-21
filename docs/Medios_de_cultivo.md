@@ -2,7 +2,7 @@ El siguiente protocolo tiene por finalidad determinar los pasos para preparar y 
 
 
 # Mezcla Influente : 
-![1](https://user-images.githubusercontent.com/42915929/150545067-0b525011-d788-49b0-a35e-25a68a236669.png)
+![1](Images/1.png)
 - 50 v/v % de solucion Acetato  
 - 50 v/v % de Medio de Crecmiento 
 
