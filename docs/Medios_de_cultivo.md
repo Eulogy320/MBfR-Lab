@@ -1,15 +1,15 @@
 El siguiente protocolo tiene por finalidad determinar los pasos para preparar y conservar los medios utilizados en los experimentos. 
 
 
-# Mezcla Influente : 
+ **Mezcla Influente:** 
 ![1](images/1.png)
 - 50 v/v % de solucion Acetato  
-- 50 v/v % de Medio de Crecmiento 
+- 50 v/v % de Medio de Crecimiento 
 
 Preparación Medio de Crecimiento para 1 Litro : 
 
 
-En la balanza analítica gramar 
+**En la balanza analítica gramar** 
 
 - 2,77 g de Na2HPO4 
 - 1.7  g de KH2PO4
@@ -19,7 +19,7 @@ En la balanza analítica gramar
 - 2 ml Solución Calcio-Hierro 
 ____________________________________________________________________________________________________________________
 
-Preparación medio Traza Minerales para 1 Litro : 
+**Preparación medio Traza Minerales para 1 Litro :** 
 
 - 100 mg ZnSO4 heptahidratado
 - 30  mg MnCl2 monhidratado
@@ -30,12 +30,12 @@ Preparación medio Traza Minerales para 1 Litro :
 - 30 mg Na2MoO4 dihidratado
 - 30 mg Na2Se03 
 
-Regular pH : 
+**Regular pH :** 
 Prender el multiparamétrico de sobremesa, y utilizando el electrodo de pH medir la solución, esta debe estar
 aproximadamente en un pH 7. Corregir pH con soluciones stock de Ácido o Base según corresponda. 
 _____________________________________________________________________________________________________________________
 
-Preparación Solución Ca-Fe
+**Preparación Solución Ca-Fe**
 
 - 1 g de CaCl2 dihidratado 
 - 1 g de FeSO4 heptahidratado 
