@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'mbfr-lab_1'
+project = 'mbfr-lab'
 copyright = '2022, Gonzalez, Aybar'
 author = 'González, Aybar'
 
