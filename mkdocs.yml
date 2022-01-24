@@ -1,6 +1,6 @@
 site_name: MBfR-Lab
 pages:
-- ['/docs/index.rst', 'Inicio']
+- ['index.md', 'Inicio']
 - ['Medios_de_cultivo.md', 'Preparación de Medios de Cultivo']
 
 theme: readthedocs
