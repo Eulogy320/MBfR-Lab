@@ -3,4 +3,4 @@ nav:
 - Inicio: index.md
 - Preparación de Medios de Cultivo: docs/Medios_de_cultivo.md
 
-theme: mkdocs
+theme: readthedocs
