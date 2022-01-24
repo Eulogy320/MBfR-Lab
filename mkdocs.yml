@@ -1,4 +1,6 @@
-site_name: emeh-protocols
+site_name: MBfR-Lab
 pages:
 - ['index.md', 'Inicio']
 - ['Medios_de_cultivo.md']
+
+theme: readthedocs
