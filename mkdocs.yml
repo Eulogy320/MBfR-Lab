@@ -1,13 +1,6 @@
 site_name: MBfR-Lab
 repo_url: https://github.com/Eulogy320/MBfR-Lab
-site_description: 
-
-Laboratorio MBfR-LAB Proyecto fondecyt Nº 11191026
-
-"Study of Natural Predation on Counter-Diffusional Bacterial Biofilms: Effects on Structural Stability and Biological Activity"
-
-Ph.D Marcelo Aybar Lagos , Msc. Matías González Hernández
-
+site_description: Repositorio de protocolos del MBfR-Lab, Fondecyt Nº 11191026.
 nav:
 - Inicio: 'index.md'
 - Preparación de Medios de Cultivo: 'Medios_de_cultivo.md'
