@@ -16,8 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'sphinxcontrib.bibtex', 
+    'sphinx.ext.intersphinx', 
 ]
 
 intersphinx_mapping = {
@@ -34,3 +33,10 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+##
+
+bibtex_encoding = 'latin'
+extensions = ['sphinxcontrib.bibtex']
+bibtex_bibfiles = ['docs/references.bib']
+bibtex_default_style = 'unsrt'
+
