@@ -1,5 +1,5 @@
 site_name: MBfR-Lab
-nav:
+pages:
 - ['index.md', 'Índice']
 - ['Medios_de_cultivo.md', 'preparación medio de cultivo']
 
