@@ -7,5 +7,5 @@ En la asdasdasdasdasd :cite:p:`liu2021practical`, asdasdasdasdgf
 
 
 
-..bibliography::
+bibliography:: docs/reference.bib
 
