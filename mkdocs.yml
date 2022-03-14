@@ -1,6 +1,6 @@
 site_name: MBfR-Lab
 nav:
-- Inicio: index.md
-- Preparación de Medios de Cultivo: Medios_de_cultivo.md
+- ['index.md', 'Índice']
+- ['Medios_de_cultivo.md', 'preparación medio de cultivo']
 
 theme: readthedocs
