@@ -1,10 +1,14 @@
 Protocolo de análisis de secuencias genómicas 
 
-En la asdasdasdasdasd :cite:`liu2021practical`
+En la asdasdasdasdasd :raw-tex:`\cite{liu2021practical}`, asdasdasdasdgf
 
 
 
 
 
 
-bibliography:: references.bib
+raw:: latex
+
+ \bibliographystyle{plain}
+ \bibliography{reference.bib}
+
