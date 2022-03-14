@@ -8,7 +8,6 @@ En la asdasdasdasdasd :raw-tex:`\cite{liu2021practical}`, asdasdasdasdgf
 
 
 raw:: latex
-
  \bibliographystyle{plain}
  \bibliography{reference.bib}
 
