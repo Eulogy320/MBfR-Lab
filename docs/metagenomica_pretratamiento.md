@@ -7,5 +7,5 @@ En la asdasdasdasdasd :cite:p:`liu2021practical`, asdasdasdasdgf
 
 
 .. rubric:: References
-.. bibliography:: docs/references.bib
+.. bibliography:: references.bib
 
