@@ -12,12 +12,12 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+    'sphinxcontrib.bibtex',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.bibtex',
 ]
 
 intersphinx_mapping = {
@@ -38,6 +38,6 @@ epub_show_urls = 'footnote'
 ##
 
 bibtex_encoding = 'latin'
-bibtex_bibfiles = ['docs/references.bib']
+#bibtex_bibfiles = ['docs/references.bib']
 bibtex_default_style = 'unsrt'
 
