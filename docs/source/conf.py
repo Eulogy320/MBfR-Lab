@@ -36,11 +36,8 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 ##
-source_suffix = ['.rst', '.md']
+source_suffix = ['.md']
 ### 
-
-
-bibtex_encoding = 'latin'
 bibtex_bibfiles = ['docs/references.bib']
-bibtex_default_style = 'unsrt'
+
 
