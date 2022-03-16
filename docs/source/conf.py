@@ -36,7 +36,7 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 ##
-source_suffix = ['.md']
+source_suffix = ['.md', '.rst']
 ### 
 bibtex_bibfiles = ['docs/references.bib']
 
