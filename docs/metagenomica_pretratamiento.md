@@ -6,3 +6,11 @@ En la asdasdasdasdasd :cite:p:`liu2021practical`, asdasdasdasdgf
 
 
 
+
+
+
+.. bibliography:: /docs/refs.bib
+:cited:
+
+
+
