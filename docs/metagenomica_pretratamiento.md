@@ -5,5 +5,9 @@ Protocolo de análisis de secuencias genómicas
 En la asdasdasdasdasd :cite:p:`liu2021practical`, asdasdasdasdgf
 
 
-.. bibliography::
+.. only:: html
+
+  .. rubric:: References
+
+.. bibliography:: /docs/references.bib
 
