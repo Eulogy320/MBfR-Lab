@@ -1,4 +1,4 @@
 sphinxcontrib-bibtex
-pybtex>=0.24
+pybtex
 
 
