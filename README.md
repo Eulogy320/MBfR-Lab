@@ -1,5 +1,6 @@
-Laboratorio de 
+Laboratorio de Investigación Hidráulica, Facultad de Ingeniería y Tecnoloǵía, Universidad San Sebastían
 =======================================
-Matías Gonzalez H. blablabla
-Marcelo Aybar L. abalbalbla
+Marcelo Aybar L., Ph.D. 
+Matías Gonzalez H., M.Sc. 
+
 
