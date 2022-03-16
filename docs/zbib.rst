@@ -1,2 +1,2 @@
-.. .. bibliography::
-:all:
+.. bibliography::
+:cited:
