@@ -38,6 +38,6 @@ epub_show_urls = 'footnote'
 ##
 source_suffix = ['.md', '.rst']
 ### 
-bibtex_bibfiles = ['docs/references.bib']
+bibtex_bibfiles = ['docs/refs.bib']
 
 
