@@ -41,6 +41,6 @@ source_suffix = ['.rst', '.md']
 
 
 bibtex_encoding = 'latin'
-#bibtex_bibfiles = ['docs/references.bib']
+bibtex_bibfiles = ['docs/references.bib']
 bibtex_default_style = 'unsrt'
 
