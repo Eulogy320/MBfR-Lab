@@ -1,4 +1,1 @@
 sphinxcontrib-bibtex
-pybtex
-
-
