@@ -82,3 +82,59 @@ echo
 echo Fin
 echo
 ```
+
+Una vez que las secuencias están en el directorio de trabajo se procede a convertir el formato del archivo y remover los partidores. 
+Esto se logra con el archivo fasterq-dump.py contenido en la carpeta BIN del SRA-toolkit
+
+```Bash
+############################################### Tratamiento de secuencias ###########################################
+############################################### Conversión de SRA a FATQ ###########################################
+## Este código gestiona la conversión de la extensión del formato de la secuencias desde .SRA a fastq
+
+mkdir $dw/fastq 
+for sample in $(cat $samples)
+do
+
+   printf "\n SRA to FASTQ la muestra : ${sample}\n"
+  
+    $Dir/fasterq-dump --split-files $dw/"${sample}".sra --outdir $dw/fastq
+
+done
+```
+
+Luego de la conversión del formato de las secuencias, debemos sacar de ellas las lecturas que pudieron quedar de partidores, para eso utilizaremos la siguiente línea de código. 
+
+```Bash
+############################# TRIMMING ##############################################
+#trimming primers
+
+for sample in $(cat $samples)
+do
+
+    printf "\n  Trimming sample: ${sample}\n"
+    cutadapt -g GTGCCAGCMGCCGCGGTAA -G CCGYCAATTYMTTTRAGTTT \
+             -o $dw/fastq/trimmed/${sample}_1_trimmed.fastq.gz -p $dw/fastq/trimmed/${sample}_2_trimmed.fastq.gz \
+              $dw/fastq/${sample}_1.fastq $dw/fastq/${sample}_2.fastq \
+             > $dw/fastq/trimmed/${sample}-cutadapt.log 2>&1
+done
+
+echo 
+echo Fin
+echo
+########################################################################################
+```
+
+Estas secuencias son secuenciación de AMPLICONES de regiones 16/18s (procarioentes  y eucariontes) en la misma muestra, por tanto debemos separarlas.
+
+```Bash
+################################## BLAST #####################################################
+
+######################### INSTALLAR MagicBlast ##############################################
+ 
+echo instalando magicblast
+conda install -c bioconda magicblast
+```
+
+
+
+
