@@ -1,2 +1,2 @@
 sphinxcontrib-bibtex
-linguist
+github-linguist
