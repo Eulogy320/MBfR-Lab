@@ -1,4 +1,4 @@
-El siguiente protocolo tiene por finalidad establecer los pasos para medir la concentración de amonio en los experimentos utilizando el Método de Reducción de Cadmio.El intervalo de concentración de lectura es de 0,4 a 50, 0 mg/L  NH3-N (HR).
+El siguiente protocolo tiene por finalidad establecer los pasos para medir la concentración de amonio en los experimentos utilizando el Método de Reducción de Cadmio. El intervalo de concentración de lectura es de 0,4 a 50, 0 mg/L  NH3-N (HR).
 
  **Instrumentos necesarios:**
  ![1](images/DR900_adaptador.jpeg)
