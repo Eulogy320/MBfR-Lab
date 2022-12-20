@@ -4,11 +4,13 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
 
  **Instrumentos necesarios:**
  ![1](images/DR900_adaptador.jpeg)
+ ![1](images/DR900_Tapa.jpeg)
  ![1](images/DR900_adaptador.jpeg)
- ![1](images/DR900_adaptador.jpeg)
+ ![1](images/Timer.jpeg)
  *-DR 900 adaptador
  *-DR 900 tapa
  *-guantes
+ *-timer
  
  **Recogida y almacenamiento de muestras:** 
 
