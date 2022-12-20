@@ -3,12 +3,12 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
 *-0,4 a 50, 0 mg/L  NH3-N (HR)
 
  **Instrumentos necesarios:**
- ![1](images/DR900_adaptador.png)
+ ![1](images/DR900_adaptador.jpeg)
  *-DR 900
 
  **Recogida y almacenamiento de muestras:** 
 
- * -Colectar las muestras y limpiar los frascos de cristal o plástico
+ * -Colecte las muestras y limpie los frascos de cristal o plástico
  * -Analice las muestras lo antes posible para obetener los mejores resultados
  * -Si se sabe que hay presencia de cloro, añada una gota de 0,1 N de Na2S2O3 para 1 L de muestra por cada 0,3 mg/L Cl2
  * -Para preservar muestras para análisis posteriores, ajuste la muestra a pH menor a 2 con HCL(conc) alrededor de 2mL/L. Si la muestra se va a analizar inmediatamente, no es necesario añadir HCL.
