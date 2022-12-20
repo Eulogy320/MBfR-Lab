@@ -4,16 +4,20 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
 
  **Instrumentos necesarios:**
  ![1](images/DR900_adaptador.jpeg)
- *-DR 900
-
+ ![1](images/DR900_adaptador.jpeg)
+ ![1](images/DR900_adaptador.jpeg)
+ *-DR 900 adaptador
+ *-DR 900 tapa
+ *-guantes
+ 
  **Recogida y almacenamiento de muestras:** 
 
  * -Colecte las muestras y limpie los frascos de cristal o plástico
  * -Analice las muestras lo antes posible para obetener los mejores resultados
- * -Si se sabe que hay presencia de cloro, añada una gota de 0,1 N de Na2S2O3 para 1 L de muestra por cada 0,3 mg/L Cl2
+ * -Si sabe que hay presencia de cloro, añada una gota de 0,1 N de Na2S2O3 para 1 L de muestra por cada 0,3 mg/L Cl2
  * -Para preservar muestras para análisis posteriores, ajuste la muestra a pH menor a 2 con HCL(conc) alrededor de 2mL/L. Si la muestra se va a analizar inmediatamente, no es necesario añadir HCL.
  * -Mantenga las muestras a preservar a una temperatura menor o igual a los 6 C(43 F) por un máximo de 28 días. 
- * -Dejar que la temperatura de la muestra aumente hasta la temperatura ambiente del local antes del análisis.
+ * -Deje que la temperatura de la muestra aumente hasta la temperatura ambiente del local antes del análisis.
  * -Antes de analizar la muestra, ajustar el pH a 7 con 5,0 N de una solución estándar de NaOH.
  * -Corregir el resultado de la prueba por la disolución causada por la adición de volumen. 
 
