@@ -24,7 +24,7 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
  * -Corregir el resultado de la prueba por la disolución causada por la adición de volumen. 
 
  **Procedimiento del ensayo:** 
- * -Comenzar programa **343 N, Amonia HR TNT** 
+ * -Seleccione el programa **343 N, Amonia HR TNT** 
  * -Prepare el blanco: Añada 0,1 mL de agua libre de amonio para un AmVer
  * -Prepare la muestra: Añada 0,1 mL de muestra para un AmVer
  * -Añada el contenido del reactivo Na2S2O3, en polvo, para muestras de 5mL en cada vial
