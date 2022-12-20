@@ -30,7 +30,7 @@ El rango de concentración de lectura es de 2 a 150 mg/ L NO<sub>2</sub> <exp>-<
 <img src="images/agitar.png" width="150">
 - Esperar 10 minutos para que ocurra la reacción. Debe quedar sin moviemiento en una superficie plana.
 <img src="images/esperar 10 min.png" width="150">
-- Preparar el blanco. Colocar 10 ml de muestra en celda de lectura.
+- Preparar el blanco. Colocar 10 ml de agua desionizada en celda de lectura.
 <img src="images/prep sample.png" width="150">
 - Limpiar celda con papel suave.
 <img src="images/limpiar.png" width="150">
