@@ -13,7 +13,6 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
  *-timer
  
  **Recogida y almacenamiento de muestras:** 
-
  * -Colecte las muestras y limpie los frascos de cristal o plástico
  * -Analice las muestras lo antes posible para obetener los mejores resultados
  * -Si sabe que hay presencia de cloro, añada una gota de 0,1 N de Na2S2O3 para 1 L de muestra por cada 0,3 mg/L Cl2
