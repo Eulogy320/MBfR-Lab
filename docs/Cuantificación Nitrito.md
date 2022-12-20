@@ -37,7 +37,7 @@ El rango de concentración de lectura es de 2 a 150 mg/ L NO<sub>2</sub> <exp>-<
 - Insertar celda en equipo.
 <img src="images/montar en equipo.png" width="150">
 - Precionar ZERO para configurar. Luego de la lectura el visor muestra 0 mg/L NO<sub>2</sub> <exp>-</exp>  
-<img src="images/zero.png" width="150">
+<img src="images/Zero.png" width="150">
 - Quitar blanco.
 - Invertir frasco con muestra y reactivo 2 veces antes de colocar muestra en celda.
 <img src="images/invertir.png" width="150">
