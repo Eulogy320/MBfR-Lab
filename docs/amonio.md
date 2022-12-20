@@ -1,7 +1,6 @@
 El siguiente protocolo tiene por finalidad establecer los pasos para medir la concentración de amonio en los experimentos.
 
 *-0,4 a 50, 0 mg/L  NH3-N (HR)
-.. |NH3-N| replace:: H\ :sub:`3`\
 
  **Instrumentos necesarios:**
  *-DR 900
