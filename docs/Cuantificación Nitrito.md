@@ -1,5 +1,5 @@
 El siguiente protocolo describe los pasos a seguir para la cuentificación de Nitrito utilizando el Método de Sulfato Ferroso (Método 8153 de la empresa HACH).
-El rango de concentración de lectura es de 2 a 150 mg/ L NO\ :sub:`2`\ -  
+El rango de concentración de lectura es de 2 a 150 mg/ L NO<sub>2</sub> <exp>-</exp>  
 
 
  **Materiales necesarios para la medición:** 
@@ -7,7 +7,8 @@ El rango de concentración de lectura es de 2 a 150 mg/ L NO\ :sub:`2`\ -
 - Reactivo NitriVer 2 en polvo ( 1 sachet por cada muestra a medir)
 - Celda de muestreo de 10 mL 
 - Al menos, 20 mL de muestra
-- Colorimetro <img src="images/DR900_Tapa.jpeg" width="200">
+- Colorimetro 
+- <img src="images/DR900_Tapa.jpeg" width="200">
 
 
 **Recolección y almacenaje de muestras** 
