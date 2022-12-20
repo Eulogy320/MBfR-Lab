@@ -6,7 +6,7 @@ nav:
 - Preparación de Medios de Cultivo: 'Medios_de_cultivo.md'
 - Análisis de metagenómica: 'metagenomica_pretratamiento.md'
 - Determinación parámetros fisico-químicos
-  - Cuantificacion de Amonio: 'Cuantificación amonio.md'
-  - Cuantificación de Nitrito: 'Cuantificación Nitrito.md'
-  - Cuantificación de DQO: 'Demanda Quḿica Oxígeno ( COD - Method 800 Hach).md'
+   Cuantificacion de Amonio: 'Cuantificación amonio.md'
+   Cuantificación de Nitrito: 'Cuantificación Nitrito.md'
+   Cuantificación de DQO: 'Demanda Quḿica Oxígeno ( COD - Method 800 Hach).md'
 theme: readthedocs
