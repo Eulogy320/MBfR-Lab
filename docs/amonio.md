@@ -3,7 +3,7 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
 *-0,4 a 50, 0 mg/L  NH3-N (HR)
 
  **Instrumentos necesarios:**
- ![1](images/DS900_adaptador.png)
+ ![1](images/DR900_adaptador.png)
  *-DR 900
 
  **Recogida y almacenamiento de muestras:** 
