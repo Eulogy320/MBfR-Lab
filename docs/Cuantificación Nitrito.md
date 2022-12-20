@@ -40,6 +40,10 @@ El rango de concentración de lectura es de 2 a 150 mg/ L NO<sub>2</sub> <exp>-<
 <img src="images/zero.png" width="150">
 - Quitar blanco.
 - Invertir frasco con muestra y reactivo 2 veces antes de colocar muestra en celda.
-12.- Limpiar celda con papel suave.
-13.- Insertar celda en equipo
-14.- Presionar READ para medir nitrato. Los resultados se mostraran el visor en mg/L NO\ :sub:`2`\ -
+<img src="images/invertir.png" width="150">
+- Limpiar celda con papel suave.
+<img src="images/limpiar.png" width="150">
+- Insertar celda en equipo
+<img src="images/montar en equipo.png" width="150">
+- Presionar READ para medir nitrato. Los resultados se mostraran el visor en mg/L NO<sub>2</sub> <exp>-</exp> 
+ <img src="images/Read.png" width="150">
