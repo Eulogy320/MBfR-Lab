@@ -2,13 +2,13 @@
 Laboratorio MBfR-LAB 
 ====================
 
-# Proyecto fondecyt Nº 11191026
+- Proyecto fondecyt Nº 11191026
 
 
 **"Study of Natural Predation on Counter-Diffusional Bacterial Biofilms: Effects on Structural
 Stability and Biological Activity"**
 
-# Proyecto Fondef N° ID22I_10256
+- Proyecto Fondef N° ID22I_10256
 
 **"Oxyfit: desarrollo de un prototipo modular de oxigenación basado en membranas difusivas para el reacondicionamiento (retrofit) de sistemas de tratamiento de aguas residuales convencionales"**.
 
