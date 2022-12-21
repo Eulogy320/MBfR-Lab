@@ -2,6 +2,6 @@ Laboratorio de Investigación Hidráulica, Facultad de Ingeniería y Tecnoloǵí
 =======================================
 Marcelo Aybar L., Ph.D. 
 Matías Gonzalez H., M.Sc.
-Carlos Galarce
-
+Carlos Galarce G., Ph.D.
+Diana Mora, Msc (c).
 
