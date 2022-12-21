@@ -12,5 +12,6 @@ Stability and Biological Activity"**
 
 **"Oxyfit: desarrollo de un prototipo modular de oxigenación basado en membranas difusivas para el reacondicionamiento (retrofit) de sistemas de tratamiento de aguas residuales convencionales"**.
 
+- Equipo :
 
 Ph.D Marcelo Aybar Lagos , Msc. Matìas Gonzàlez Hernàndez, Ph.D Carlos Galarce Gutierrez, Msc (c) Diana Mora.
