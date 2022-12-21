@@ -24,19 +24,15 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
  * -Seleccione el programa **355 N, Nitrate HR PP** 
  * -Prepare la muestra: Añada 10 mL de muestra a un tubo limpio
  * -Agregar 1 sachet de reactivo NitriVer 5 a cada muestra.
- * -Espere 1 min
-
- * -Prepare el blanco: Añada 0,1 mL de agua libre de amonio para un AmVer
- 
- * -Añada el contenido del reactivo Na2S2O3, en polvo, para muestras de 5mL en cada vial
- * -Añada el contenido del reactivo CH4N2, en polvo, en cada vial
- * -Ponga las tapas en ambos viales. Agite bien para disolver el polvo
- * -Comience el conteo de la reacción: 20 min 
+ * -Espere 1 min para que ocurra la reacción
+ * -Coloque la tapa al tubo y agite hasta que se disuelva completamente
+ * -Espere 5 min para que ocurra la reacción
+ * -Prepare el blanco: coloque 10 ml de agua desionizada en celda de lectura
  * -Limpie el vial del blanco
- * -Inserte el vial del blanco dentro de la celda a 16 mm 
- * -Presione **ZERO**. La pantalla muestra 0,0 mg/L de NH3-N
+ * -Insertar el vial del blanco en equipo.
+ * -Presione **ZERO**. La pantalla muestra 0,0 mg/L de NO3-N
  * -Limpie el vial de la muestra
-* -Inserte el vial de la muestra dentro de la celda a 16 mm 
-* -Presione **READ**. El resultado se muestra en la pantalla en mg/L de NH3-N
+ * -Espere 1 min para que ocurra la reacción e inserte el vial de la muestra en el equipo
+ * -Presione **READ**. El resultado se muestra en la pantalla en mg/L de NO3-N
 
-Para mayor información, consulte el Método 10031.
+Para mayor información, consulte el Método 8039.
