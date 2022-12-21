@@ -19,3 +19,24 @@ El siguiente protocolo tiene por finalidad establecer los pasos para medir la co
  * -Antes de analizar la muestra, ajustar el pH a 7 con 5,0 N de una solución estándar de NaOH.
  * -Corregir el resultado de la prueba por la disolución causada por la adición de volumen.
 
+ **Procedimiento del ensayo:** 
+  ![1](images/nitrato1.jpg)
+ * -Seleccione el programa **355 N, Nitrate HR PP** 
+ * -Prepare la muestra: Añada 10 mL de muestra a un tubo limpio
+ * -Agregar 1 sachet de reactivo NitriVer 5 a cada muestra.
+ * -Espere 1 min
+
+ * -Prepare el blanco: Añada 0,1 mL de agua libre de amonio para un AmVer
+ 
+ * -Añada el contenido del reactivo Na2S2O3, en polvo, para muestras de 5mL en cada vial
+ * -Añada el contenido del reactivo CH4N2, en polvo, en cada vial
+ * -Ponga las tapas en ambos viales. Agite bien para disolver el polvo
+ * -Comience el conteo de la reacción: 20 min 
+ * -Limpie el vial del blanco
+ * -Inserte el vial del blanco dentro de la celda a 16 mm 
+ * -Presione **ZERO**. La pantalla muestra 0,0 mg/L de NH3-N
+ * -Limpie el vial de la muestra
+* -Inserte el vial de la muestra dentro de la celda a 16 mm 
+* -Presione **READ**. El resultado se muestra en la pantalla en mg/L de NH3-N
+
+Para mayor información, consulte el Método 10031.
